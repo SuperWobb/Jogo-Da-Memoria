@@ -9,3 +9,38 @@ img {
     width: 100px;
     height: auto;
 }
+
+body
+{
+    background-color: #222831;
+    margin: 0;
+    padding: 0;
+}
+
+#title, #rodape
+{
+    background-color: #111720;
+    color:darkgoldenrod;
+    text-align: center;
+    padding: 30px 0px;
+}
+
+#rodape
+{
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    margin-top: 10px;
+    width: 100%;
+}
+h3
+{
+    text-align: center;
+    color:aliceblue;
+}
+
+#jogo
+{
+    display: flex;
+    justify-content: center;
+}

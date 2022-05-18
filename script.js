@@ -104,6 +104,6 @@ function viraCartao()
     cartaoEscolhidoID.push(idCartao);
     if(cartaoEscolhido.length === 2)
     {
-        setTimeout(checagem, 500);
+        setTimeout(checagem, 300);
     }
 }
